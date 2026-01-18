@@ -45,3 +45,13 @@ This section implements the KNN algorithm for breast cancer classification.
 - Accuracy
 - Confusion Matrix
 - Classification Report
+## Logistic Regression vs KNN (Comparison)
+
+| Aspect | Logistic Regression | KNN |
+|------|---------------------|-----|
+| Model Type | Parametric | Non-parametric |
+| Training Speed | Fast | Slow |
+| Prediction Speed | Fast | Slow for large data |
+| Feature Scaling | Optional | Required |
+| Overfitting | Less likely | High for small K |
+| Best Use Case | Linearly separable data | Complex decision boundaries |
