@@ -55,3 +55,9 @@ This section implements the KNN algorithm for breast cancer classification.
 | Feature Scaling | Optional | Required |
 | Overfitting | Less likely | High for small K |
 | Best Use Case | Linearly separable data | Complex decision boundaries |
+
+## Conclusion
+Both Logistic Regression and KNN perform well on the Breast Cancer dataset. 
+Logistic Regression is faster and simpler, while KNN can capture complex patterns 
+when the optimal value of K is chosen.
+
