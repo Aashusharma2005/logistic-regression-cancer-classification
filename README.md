@@ -27,3 +27,21 @@ The model achieved good performance on the test dataset.
 - numpy
 - matplotlib
 - scikit-learn
+---
+
+## K-Nearest Neighbors (KNN)
+
+This section implements the KNN algorithm for breast cancer classification.
+
+### Steps
+- Load dataset
+- Train-test split
+- Feature scaling
+- Find best K
+- Model training
+- Evaluation
+
+### Metrics
+- Accuracy
+- Confusion Matrix
+- Classification Report
